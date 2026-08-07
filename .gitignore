@@ -2,3 +2,4 @@
 .databricks
 .vscode
 databricks.yml
+typings/
